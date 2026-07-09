@@ -125,6 +125,13 @@ nav a:hover,.main-nav a:hover{border-color:var(--dna-ink);background:#fff!import
 .hero-panel,.card,.service-card,.post-card{box-shadow:6px 6px 0 var(--dna-line)!important}
 .button,.apply-btn{border-radius:0!important}
 
+
+.site-header{display:grid!important;grid-template-columns:1fr!important;justify-items:center!important;padding:18px 24px!important}
+.site-header nav{justify-content:center!important;border-top:2px solid var(--dna-ink);border-bottom:2px solid var(--dna-ink);padding:10px 0!important;width:min(900px,100%)}
+.hero{grid-template-columns:1fr!important;text-align:left!important;padding-block:72px!important}
+.hero-visual{max-width:520px;margin-inline:auto!important}
+.post-grid{grid-template-columns:1fr!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
