@@ -6,8 +6,8 @@
   --dna-line:#d4e1df;
   --dna-radius:8px;
   --dna-shadow:0 14px 34px rgba(47,109,117,.12);
-  --dna-heading:"Trebuchet MS", Verdana, sans-serif;
-  --dna-font:"Trebuchet MS", Verdana, sans-serif;
+  --dna-heading:Segoe UI, Arial, sans-serif;
+  --dna-font:Segoe UI, Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
