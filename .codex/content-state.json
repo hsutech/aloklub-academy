@@ -1,0 +1,47 @@
+{
+  "domain": "aloklub.academy",
+  "company": "Aloklub Academy",
+  "market": "Bilbao, Bizkaia, Spain",
+  "language": "Español",
+  "lastRun": "2026-07-15T01:38:00+02:00",
+  "items": [
+    {
+      "keyword": "mejores cursos de economía circular",
+      "slug": "mejores-cursos-de-economia-circular",
+      "title": "Mejores cursos de economia circular: 7 opciones para elegir bien",
+      "status": "published_pending_deploy_verification",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-15",
+      "finalUrl": "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar cursos antes de pedir informacion o matricularse.",
+        "pageTypes": [
+          "directorios de cursos",
+          "paginas de programas universitarios",
+          "articulos de formacion recomendada",
+          "paginas institucionales sobre economia circular"
+        ],
+        "coverage": "La SERP cubre inventarios de cursos, programas concretos y marcos de economia circular; falta una comparativa editorial que explique que formato conviene segun perfil y aplicacion.",
+        "gaps": [
+          "criterios claros de seleccion",
+          "diferencia entre master, curso, taller, MOOC y mentoria",
+          "senales de alerta ante promesas poco verificables",
+          "conexion con marcos publicos y estandares"
+        ]
+      },
+      "sources": [
+        "https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview",
+        "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html",
+        "https://environment.ec.europa.eu/strategy/circular-economy",
+        "https://www.iso.org/standard/80648.html",
+        "https://www.uc3m.es/master/ingenieria-circular"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/otros-proyectos/"
+      ]
+    }
+  ]
+}
