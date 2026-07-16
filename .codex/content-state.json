@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-15T01:38:00+02:00",
+  "lastRun": "2026-07-17T01:49:27+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -54,6 +54,115 @@
         "https://aloklub.academy/servicios/educacion/",
         "https://aloklub.academy/servicios/otros-proyectos/"
       ]
+    },
+    {
+      "keyword": "mejores cursos de sostenibilidad para empresas",
+      "slug": "mejores-cursos-de-sostenibilidad-para-empresas",
+      "title": "Mejores cursos de sostenibilidad para empresas: 7 opciones para decidir",
+      "status": "published",
+      "commit": "a8705c2",
+      "verifiedAt": "2026-07-17T01:49:27+02:00",
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-16",
+      "finalUrl": "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+      "reconciledFromRepository": true,
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar cursos de sostenibilidad, ESG, reporting y formacion in company para empresas.",
+        "pageTypes": [
+          "paginas de cursos y escuelas de negocio",
+          "programas universitarios o ejecutivos",
+          "articulos de formacion empresarial",
+          "paginas institucionales sobre reporting y estandares"
+        ],
+        "coverage": "La SERP mezcla cursos ejecutivos, ESG, sostenibilidad empresarial y programas online; falta una comparativa que explique que formato conviene segun objetivo interno.",
+        "gaps": [
+          "diferenciar ESG, sostenibilidad y circularidad",
+          "criterios de compra para pymes y equipos",
+          "senales de alerta ante certificados ambiguos",
+          "conexion con marcos de reporting y responsabilidad social"
+        ]
+      },
+      "sources": [
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+        "https://www.globalreporting.org/standards/",
+        "https://www.unglobalcompact.org/what-is-gc/mission/principles",
+        "https://www.iso.org/iso-26000-social-responsibility.html"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/servicios/educacion/"
+      ]
+    },
+    {
+      "keyword": "mejores formaciones en diseño regenerativo",
+      "slug": "mejores-formaciones-en-diseno-regenerativo",
+      "title": "Mejores formaciones en diseno regenerativo: 7 opciones para elegir con criterio",
+      "status": "published",
+      "commit": "9ad5871",
+      "verifiedAt": "2026-07-17T01:49:27+02:00",
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-17",
+      "finalUrl": "https://aloklub.academy/blog/mejores-formaciones-en-diseno-regenerativo/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar programas, cursos y mentorias antes de matricularse o pedir informacion.",
+        "pageTypes": [
+          "paginas de programas de sostenibilidad y regeneracion",
+          "formaciones de permacultura",
+          "cursos de restauracion ecologica",
+          "programas universitarios de arquitectura y urbanismo regenerativo",
+          "programas de transformacion circular"
+        ],
+        "coverage": "La SERP actual ofrece paginas de cursos concretos como Gaia Education, Kai Permacultura, CIRE/Camp Altiplano, Escola Sert, ISM, UPC School y programas de transformacion circular; no domina una comparativa editorial independiente.",
+        "gaps": [
+          "comparar rutas por objetivo y sistema",
+          "diferenciar regeneracion, restauracion, permacultura, circularidad y arquitectura",
+          "explicar criterios de evidencia y lectura del lugar",
+          "senales de alerta ante uso superficial de la etiqueta regenerativa"
+        ]
+      },
+      "sources": [
+        "https://www.gaiaeducation.org/diseno-para-la-sostenibilidad-y-la-regeneracion",
+        "https://www.kaipermacultura.com/formacion",
+        "https://ecorestauracion.es/",
+        "https://www.escolasert.com/es/oferta-formativa/curso-herramientas-diseno-resiliente",
+        "https://www.ismedioambiente.com/programas-formativos/restauracion-ambiental-de-espacios-degradados/",
+        "https://www.arup.com/es/insights/what-is-regenerative-design/",
+        "https://environment.ec.europa.eu/topics/nature-and-biodiversity/nature-restoration-regulation_en",
+        "https://www.unesco.org/en/ecosystems-restoration-decade"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/servicios/educacion/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-formaciones-diseno-regenerativo.jpg",
+        "alt": "Mesa de aprendizaje con mapa, materiales y bocetos de diseno regenerativo",
+        "generatedWith": "imagegen"
+      }
     }
   ]
 }
