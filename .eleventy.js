@@ -9,7 +9,7 @@ export default function(eleventyConfig) {
       input: "src",
       output: "dist"
     },
-    htmlTemplateEngine: "njk",
+    htmlTemplateEngine: false,
     markdownTemplateEngine: "njk"
   };
 }
