@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-17T01:49:27+02:00",
+  "lastRun": "2026-07-20T00:00:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -163,6 +163,122 @@
         "alt": "Mesa de aprendizaje con mapa, materiales y bocetos de diseno regenerativo",
         "generatedWith": "imagegen"
       }
+    },
+    {
+      "keyword": "cursos de economía circular opiniones",
+      "slug": "cursos-de-economia-circular-opiniones",
+      "title": "Cursos de economia circular opiniones: como leer resenas antes de elegir",
+      "status": "published",
+      "commit": "d2593cb",
+      "verifiedAt": "2026-07-20T00:00:00+02:00",
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-18",
+      "finalUrl": "https://aloklub.academy/blog/cursos-de-economia-circular-opiniones/",
+      "reconciledFromRepository": true,
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: interpretar opiniones y resenas antes de matricularse en cursos de economia circular.",
+        "pageTypes": [
+          "paginas de curso con reviews",
+          "paginas especificas de opiniones",
+          "directorios de cursos",
+          "paginas de curso con testimonios propios"
+        ],
+        "coverage": "La SERP combina plataformas con ratings, directorios y paginas de curso; el contenido publicado cubre el gap de como leer opiniones sin depender solo de estrellas.",
+        "gaps": [
+          "criterios para valorar volumen y fecha de resenas",
+          "diferenciar opiniones genericas de utilidad aplicada",
+          "cruzar reviews con temario, docentes y metodologia"
+        ]
+      },
+      "sources": [
+        "https://www.coursera.org/learn/economia-circular",
+        "https://platzi.com/cursos/economia-circular/opiniones/",
+        "https://www.emagister.com/i/cursos-economia-circular-kwes-42272020040449535065545267109996.htm",
+        "https://www.iso.org/standard/80648.html",
+        "https://www.ellenmacarthurfoundation.org/es/videos/explicando-la-economia-circular-repensar-el-progreso"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/servicios/educacion/"
+      ],
+      "image": {
+        "path": "src/assets/cursos-economia-circular-opiniones.jpg",
+        "alt": "Mesa de trabajo comparando opiniones y criterios de cursos de economia circular"
+      }
+    },
+    {
+      "keyword": "mejores programas de sostenibilidad online",
+      "slug": "mejores-programas-de-sostenibilidad-online",
+      "title": "Mejores programas de sostenibilidad online: 7 opciones para elegir con criterio",
+      "status": "published",
+      "commit": "5e75b32",
+      "verifiedAt": "2026-07-20T00:00:00+02:00",
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-20",
+      "finalUrl": "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar programas online de sostenibilidad antes de pedir informacion, matricularse o justificar presupuesto.",
+        "pageTypes": [
+          "masters universitarios online",
+          "masters executive online",
+          "programas ESG online",
+          "cursos cortos empresariales",
+          "MOOCs y cursos gratuitos",
+          "directorios de cursos"
+        ],
+        "coverage": "La SERP prioriza paginas transaccionales de programas con temario, modalidad, duracion, profesorado, precio o solicitud de informacion. Hay menos comparativas editoriales que ayuden a elegir formato.",
+        "gaps": [
+          "comparar master, executive, curso corto, MOOC y mentoria por objetivo",
+          "explicar diferencias entre online asincrono, directo y con feedback",
+          "separar sostenibilidad general, ESG y economia circular",
+          "evitar promesas de empleabilidad o transformacion no verificables"
+        ]
+      },
+      "sources": [
+        "https://www.bsm.upf.edu/es/master-sostenbilidad-online",
+        "https://sgsacademy.es/products/programa-sostenibilidad-empresarial",
+        "https://www.unir.net/empresa/curso-sostenibilidad-esg/",
+        "https://www.eada.edu/es/programas/sostenibilidad/master-online-en-direccion-y-sostenibilidad-empresarial",
+        "https://frdelpino.edu.es/courses/sostenibilidad-empresarial-y-ods/",
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+        "https://www.classcentral.com/report/sustainability-courses-free-certificate/"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/servicios/educacion/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-programas-sostenibilidad-online.jpg",
+        "alt": "Mesa profesional con ordenador y materiales para comparar programas de sostenibilidad online",
+        "generatedWith": "imagegen"
+      },
+      "youtube": "https://www.youtube.com/embed/NBEvJwTxs4w"
     }
   ]
 }
