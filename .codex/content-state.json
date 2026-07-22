@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-20T00:00:00+02:00",
+  "lastRun": "2026-07-22T09:59:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -279,6 +279,64 @@
         "generatedWith": "imagegen"
       },
       "youtube": "https://www.youtube.com/embed/NBEvJwTxs4w"
+    },
+    {
+      "keyword": "alternativas a un máster en sostenibilidad",
+      "slug": "alternativas-a-un-master-en-sostenibilidad",
+      "title": "Alternativas a un master en sostenibilidad: 7 rutas para avanzar sin sobredimensionar la inversion",
+      "status": "published",
+      "commit": "fd0e481",
+      "verifiedAt": "2026-07-22T09:59:00+02:00",
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-22",
+      "finalUrl": "https://aloklub.academy/blog/alternativas-a-un-master-en-sostenibilidad/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar si conviene un master completo o una ruta alternativa mas corta antes de invertir tiempo y presupuesto.",
+        "pageTypes": [
+          "masters universitarios online",
+          "masters executive ESG",
+          "microcredenciales universitarias",
+          "cursos cortos de comunicacion o criterios ESG",
+          "catalogos de formacion en sostenibilidad"
+        ],
+        "coverage": "La SERP actual de Google ES / Bilbao prioriza paginas transaccionales de programas con duracion, ECTS, precio, metodologia, profesorado, CTA y formularios; hay poca cobertura editorial sobre cuando no hace falta un master.",
+        "gaps": [
+          "comparar master, microcredencial, executive, curso corto, certificacion, formacion de equipo, proyecto y mentoria",
+          "explicar el coste de oportunidad de un master frente a rutas por competencia",
+          "distinguir credencial, profundidad, feedback, aplicacion inmediata y evidencia",
+          "alertar sobre promesas vagas de empleabilidad, liderazgo o impacto"
+        ]
+      },
+      "sources": [
+        "https://www.bsm.upf.edu/es/master-sostenbilidad-online",
+        "https://www.eoi.es/es/cursos/91117/master-executive-en-sostenibilidad-esg-online",
+        "https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-comunicacion-sostenibilidad-esg",
+        "https://education.ec.europa.eu/education-levels/higher-education/micro-credentials",
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/alternativas-master-sostenibilidad.jpg",
+        "alt": "Mesa profesional con rutas de aprendizaje para comparar alternativas a un master en sostenibilidad",
+        "generatedWith": "imagegen"
+      }
     }
   ]
 }
