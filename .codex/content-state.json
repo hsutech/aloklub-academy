@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-22T09:59:00+02:00",
+  "lastRun": "2026-07-26T11:07:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -336,6 +336,65 @@
         "path": "src/assets/alternativas-master-sostenibilidad.jpg",
         "alt": "Mesa profesional con rutas de aprendizaje para comparar alternativas a un master en sostenibilidad",
         "generatedWith": "imagegen"
+      }
+    },
+    {
+      "keyword": "EXTRA_CAMPAIGN: Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
+      "slug": "calzado-barefoot-sostenibilidad",
+      "title": "Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
+      "status": "published_extra_campaign",
+      "campaignType": "extra_one_off",
+      "normalEditorialQueueConsumed": false,
+      "publicationDate": "2026-07-26",
+      "finalUrl": "https://aloklub.academy/blog/calzado-barefoot-sostenibilidad/",
+      "serpObservations": {
+        "intent": "Informacional / investigacion comercial: entender si el calzado barefoot puede elegirse con criterios de sostenibilidad, materiales, durabilidad y consumo responsable.",
+        "pageTypes": [
+          "tiendas barefoot y paginas de producto",
+          "rankings de marcas barefoot",
+          "articulos periodisticos sobre calzado respetuoso",
+          "guias de tiendas sobre marcas saludables o sostenibles"
+        ],
+        "coverage": "La SERP espanola explica bastante bien puntera ancha, drop cero, suela flexible y marcas, pero cubre peor la relacion entre compra responsable, materiales, cuidado, reparacion, vida util y circularidad.",
+        "gaps": [
+          "evitar presentar barefoot como automaticamente sostenible",
+          "comparar materiales por durabilidad, cuidado y fin de vida",
+          "integrar consumo responsable y coste por uso",
+          "incluir marcas reales sin convertir el articulo en una review de Lejan"
+        ]
+      },
+      "sources": [
+        "https://lejanbrand.com/",
+        "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+        "https://www.eea.europa.eu/en/topics/in-depth/textiles",
+        "https://www.eea.europa.eu/en/analysis/publications/textiles-and-the-environment-the-role-of-design-in-europes-circular-economy-1",
+        "https://www.ellenmacarthurfoundation.org/fashion-business-models/overview"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/blog/plan-de-aprendizaje-circular/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/calzado-barefoot-sostenibilidad.png",
+        "alt": "Calzado barefoot con muestras de materiales, cepillo de cuidado y esquema de circularidad",
+        "generatedWith": "imagegen"
+      },
+      "anchor": {
+        "text": "Lejan Brand",
+        "destination": "https://lejanbrand.com/",
+        "occurrences": 1
+      },
+      "verification": {
+        "urlHttpStatus": null,
+        "h1Matches": null,
+        "canonicalMatches": null,
+        "featuredImageLoads": null,
+        "presentInBlog": null,
+        "presentInSitemap": null,
+        "desktopRenderOk": null,
+        "mobileRenderOk": null
       }
     }
   ]
