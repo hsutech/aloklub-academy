@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-26T11:07:00+02:00",
+  "lastRun": "2026-07-27T00:00:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -339,10 +339,62 @@
       }
     },
     {
+      "keyword": "mejores cursos ESG para profesionales",
+      "slug": "mejores-cursos-esg-para-profesionales",
+      "title": "Mejores cursos ESG para profesionales: 7 opciones para elegir con criterio",
+      "status": "draft_local",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-07-27",
+      "finalUrl": "https://aloklub.academy/blog/mejores-cursos-esg-para-profesionales/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar cursos ESG para profesionales antes de pedir informacion o matricularse.",
+        "pageTypes": [
+          "microcredenciales universitarias",
+          "programas executive ESG",
+          "cursos online universitarios",
+          "masters de sostenibilidad ESG",
+          "cursos tecnicos de sostenibilidad ambiental, social y gobernanza",
+          "paginas de admision y catalogos de academia"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao prioriza landings transaccionales con modalidad, duracion, temario, perfil recomendado, metodologia, CTAs y formularios. En julio de 2026 tambien aparece una microcredencial ESG de UPV/EHU, relevante para el angulo local de Bilbao/Bizkaia. Hay poca comparacion editorial por rol profesional.",
+        "gaps": [
+          "distinguir ESG de sostenibilidad general",
+          "comparar rutas por rol: direccion, reporting, comunicacion, compliance, equipos y proyecto aplicado",
+          "explicar que senales revisar antes de pedir informacion",
+          "conectar cursos ESG con CSRD, ESRS, GRI e ISSB sin prometer empleo ni resultados"
+        ]
+      },
+      "sources": [
+        "https://www.ehu.eus/es/web/ieae/mercados-financieros-y-banca-privada/microcredencial/analista-en-criterios-esg-abril-mayo-2026",
+        "https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-comunicacion-sostenibilidad-esg",
+        "https://www.eoi.es/es/cursos/91117/master-executive-en-sostenibilidad-esg-online",
+        "https://www.unir.net/empresa/curso-sostenibilidad-esg/",
+        "https://www.tuvsud.com/es-es/store/academy-es/sostenibilidad/sostenibilidad-social/8013ol-curso-online-introduccion-sostenibilidad-criterios-esg",
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+        "https://www.efrag.org/en/sustainability-reporting",
+        "https://www.ifrs.org/supporting-implementation/supporting-materials-for-ifrs-sustainability-disclosure-standards/",
+        "https://www.globalreporting.org/standards/"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/blog/alternativas-a-un-master-en-sostenibilidad/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-cursos-esg-profesionales.jpg",
+        "alt": "Profesionales comparando cursos ESG con informes, portatil y materiales de sostenibilidad",
+        "generatedWith": "imagegen"
+      }
+    },
+    {
       "keyword": "EXTRA_CAMPAIGN: Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
       "slug": "calzado-barefoot-sostenibilidad",
       "title": "Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
       "status": "published_extra_campaign",
+      "commit": "871d258",
+      "verifiedAt": "2026-07-26T11:12:04+02:00",
       "campaignType": "extra_one_off",
       "normalEditorialQueueConsumed": false,
       "publicationDate": "2026-07-26",
@@ -395,9 +447,7 @@
         "presentInSitemap": true,
         "desktopRenderOk": true,
         "mobileRenderOk": true
-      },
-      "commit": "871d258",
-      "verifiedAt": "2026-07-26T11:12:04+02:00"
+      }
     }
   ]
 }
