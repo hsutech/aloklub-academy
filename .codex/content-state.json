@@ -387,15 +387,17 @@
         "occurrences": 1
       },
       "verification": {
-        "urlHttpStatus": null,
-        "h1Matches": null,
-        "canonicalMatches": null,
-        "featuredImageLoads": null,
-        "presentInBlog": null,
-        "presentInSitemap": null,
-        "desktopRenderOk": null,
-        "mobileRenderOk": null
-      }
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      },
+      "commit": "871d258",
+      "verifiedAt": "2026-07-26T11:12:04+02:00"
     }
   ]
 }
