@@ -401,6 +401,65 @@
       }
     },
     {
+      "keyword": "mejores cursos de ecodiseño",
+      "slug": "mejores-cursos-de-ecodiseno",
+      "title": "Mejores cursos de ecodiseno: 7 opciones para elegir con criterio",
+      "status": "published",
+      "commit": "e35be43",
+      "verifiedAt": "2026-08-04T13:29:38+02:00",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-08-04",
+      "finalUrl": "https://aloklub.academy/blog/mejores-cursos-de-ecodiseno/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar cursos de ecodiseno antes de pedir informacion, elegir formato o matricularse.",
+        "pageTypes": [
+          "landings de curso online",
+          "microcredenciales universitarias",
+          "masters oficiales de diseno de producto y ecodiseno",
+          "talleres tecnicos",
+          "cursos industriales ligados a ACV, ISO 14006 y sistemas de gestion"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao prioriza paginas transaccionales con modalidad, duracion, precio, temario, docentes, metodologia, certificado, CTAs y formularios. IED Bilbao domina el angulo local de master presencial; Ihobe/EHU aporta microcredencial local; INESEM e ISM cubren cursos online.",
+        "gaps": [
+          "comparar opciones por perfil profesional y uso real",
+          "distinguir ecodiseno, economia circular, ACV y sostenibilidad general",
+          "explicar cuando conviene master, microcredencial, curso tecnico, taller o mentoria",
+          "conectar la eleccion con ISO 14006, ESPR y pasaporte digital de producto sin inventar promesas"
+        ]
+      },
+      "sources": [
+        "https://www.ied.es/cursos/bilbao/master-oficial/diseno-de-producto-y-ecodiseno",
+        "https://www.inesem.es/Curso-De-Ecodiseno",
+        "https://www.ihobe.eus/es/actualidad/ihobe-y-ehu-impulsan-una-nueva-formacion-en-ecodiseno-orientada-economia-circular",
+        "https://www.ismedioambiente.com/programas-formativos/ecodiseno-de-productos-y-servicios/",
+        "https://www.iso.org/standard/72644.html",
+        "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-now-live-2026-07-20_en",
+        "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en?prefLang=es",
+        "https://www.ellenmacarthurfoundation.org/design-and-the-circular-economy-deep-dive"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-cursos-ecodiseno.jpg",
+        "alt": "Mesa de ecodiseno con materiales reciclados, bocetos, producto desmontado y graficas de ciclo de vida",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      }
+    },
+    {
       "keyword": "EXTRA_CAMPAIGN: Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
       "slug": "calzado-barefoot-sostenibilidad",
       "title": "Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
