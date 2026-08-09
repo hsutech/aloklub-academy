@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-07-27T01:42:10+02:00",
+  "lastRun": "2026-08-10T01:52:37+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -457,6 +457,72 @@
         "presentInSitemap": true,
         "desktopRenderOk": true,
         "mobileRenderOk": true
+      }
+    },
+    {
+      "keyword": "formación en economía circular para empresas",
+      "slug": "formacion-en-economia-circular-para-empresas",
+      "title": "Formacion en economia circular para empresas: como elegir un programa util",
+      "status": "pushed_unverified",
+      "commit": "505cb04",
+      "verifiedAt": "2026-08-10T01:52:37+02:00",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-08-10",
+      "finalUrl": "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+      "pushedUnverifiedReason": "Live URL, H1, canonical, image, blog index, sitemap, Article schema, FAQ schema, TOC and YouTube were verified; mobile/desktop visual screenshot verification was inconclusive because local Chrome headless hung and did not write screenshots, although it requested HTML, CSS, logos, JS and featured image successfully.",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: empresas y pymes comparan formacion circular antes de pedir informacion, elegir proveedor o activar un programa interno.",
+        "pageTypes": [
+          "landings de cursos online",
+          "programas formativos institucionales para pymes vascas",
+          "formacion gratuita para pymes",
+          "hubs sectoriales de envases y economia circular",
+          "programas con modalidad, duracion, temario, certificado y formulario"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao mezcla Ihobe/Basque Circular Hub, cursos online de ISM/COIIM, formacion para pymes y recursos sectoriales. Predominan fichas de cursos y programas propios; pocas paginas ayudan a decidir el formato empresarial por madurez, sector y entregable.",
+        "gaps": [
+          "separar sensibilizacion, tecnica, direccion, in company, compras, sectorial y mentoria",
+          "explicar que entregable debe producir cada formato",
+          "evitar reducir economia circular a reciclaje",
+          "ayudar a pymes a elegir una ruta proporcional sin canibalizar rankings de cursos ya publicados"
+        ]
+      },
+      "sources": [
+        "https://www.ihobe.eus/es/formacion-en-economia-circular",
+        "https://www.ismedioambiente.com/programas-formativos/economia-circular/",
+        "https://www.pymesostenible.com/sostenibilidad-pymes",
+        "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html",
+        "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+        "https://www.iso.org/standard/80648.html",
+        "https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/",
+        "https://aloklub.academy/contact/"
+      ],
+      "image": {
+        "path": "src/assets/formacion-economia-circular-empresas.jpg",
+        "alt": "Equipo de empresa trabajando sobre un mapa de ciclo de vida, materiales y decisiones de economia circular",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
+        "youtubePresent": true,
+        "desktopRenderOk": false,
+        "mobileRenderOk": false,
+        "renderVerificationNote": "Chrome headless requested article HTML, CSS, logos, JS and featured image for desktop/mobile attempts but hung before writing screenshots."
       }
     },
     {
