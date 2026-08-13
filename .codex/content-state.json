@@ -586,5 +586,62 @@
         "mobileRenderOk": true
       }
     }
+  ],
+  "lastUpdated": "2026-08-13",
+  "articles": [
+    {
+      "keyword": "cómo evaluar la durabilidad real del calzado barefoot antes de comprar",
+      "priority": "Campaign",
+      "slug": "evaluar-durabilidad-calzado-barefoot",
+      "title": "Cómo evaluar la durabilidad real del calzado barefoot antes de comprar",
+      "url": "https://aloklub.academy/blog/evaluar-durabilidad-calzado-barefoot/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Cómo evaluar la durabilidad real del calzado barefoot antes de comprar"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+          "https://www.inescop.es/images/Proyectos/Regionales/2024/DIS4REC/E2.1_Estado_del_arte_sobre_desensamblado_y_reciclaje_de_calzado.pdf",
+          "https://www.wrap.ngo/taking-action/textiles"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://aloklub.academy/blog/calzado-barefoot-sostenibilidad/",
+          "https://aloklub.academy/blog/mejores-cursos-de-ecodiseno/",
+          "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+          "https://aloklub.academy/servicios/"
+        ],
+        "externalLinks": [
+          "https://barefootreview.com/es/listas/mejores-zapatillas-barefoot",
+          "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+          "https://www.inescop.es/images/Proyectos/Regionales/2024/DIS4REC/E2.1_Estado_del_arte_sobre_desensamblado_y_reciclaje_de_calzado.pdf",
+          "https://www.wrap.ngo/taking-action/textiles"
+        ],
+        "featuredImage": "/assets/durabilidad-calzado-barefoot.webp",
+        "featuredImageAlt": "Inspección de una zapatilla flexible con suela, plantilla, cordones y muestras de materiales sobre una mesa de taller",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
+      }
+    }
   ]
 }
