@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-08-10T01:52:37+02:00",
+  "lastRun": "2026-08-15T02:00:22+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -463,13 +463,12 @@
       "keyword": "formación en economía circular para empresas",
       "slug": "formacion-en-economia-circular-para-empresas",
       "title": "Formacion en economia circular para empresas: como elegir un programa util",
-      "status": "pushed_unverified",
+      "status": "published",
       "commit": "505cb04",
-      "verifiedAt": "2026-08-10T01:52:37+02:00",
+      "verifiedAt": "2026-08-15T01:55:25+02:00",
       "selectedFromWorkbookPriority": "Alta",
       "publicationDate": "2026-08-10",
       "finalUrl": "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
-      "pushedUnverifiedReason": "Live URL, H1, canonical, image, blog index, sitemap, Article schema, FAQ schema, TOC and YouTube were verified; mobile/desktop visual screenshot verification was inconclusive because local Chrome headless hung and did not write screenshots, although it requested HTML, CSS, logos, JS and featured image successfully.",
       "serpObservations": {
         "intent": "Comercial / transaccional BOFU: empresas y pymes comparan formacion circular antes de pedir informacion, elegir proveedor o activar un programa interno.",
         "pageTypes": [
@@ -520,9 +519,136 @@
         "faqSchemaPresent": true,
         "tocPresent": true,
         "youtubePresent": true,
-        "desktopRenderOk": false,
-        "mobileRenderOk": false,
-        "renderVerificationNote": "Chrome headless requested article HTML, CSS, logos, JS and featured image for desktop/mobile attempts but hung before writing screenshots."
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "renderVerificationNote": "Reconciled in this run after live HTTP and structured checks; current run local desktop/mobile screenshot workflow is available again."
+      }
+    },
+    {
+      "keyword": "mejores academias de sostenibilidad en España",
+      "slug": "mejores-academias-de-sostenibilidad-en-espana",
+      "title": "Mejores academias de sostenibilidad en Espana: 10 opciones para elegir con criterio",
+      "status": "published",
+      "commit": "REBASING_PENDING",
+      "verifiedAt": "2026-08-12T10:08:04+02:00",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-08-12",
+      "finalUrl": "https://aloklub.academy/blog/mejores-academias-de-sostenibilidad-en-espana/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar academias, universidades, escuelas, hubs y plataformas antes de pedir informacion o matricularse.",
+        "pageTypes": [
+          "paginas de cursos y programas universitarios",
+          "escuelas de negocio con programas de sostenibilidad",
+          "institutos ambientales especializados",
+          "certificadoras y academias tecnicas",
+          "directorios institucionales y plataformas gratuitas"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao no esta dominada por rankings editoriales exactos; mezcla landings de programas como UOC, CEF, ISM, EADA, ESIC y UPF-BSM con listados institucionales como CENEAM/MITECO y recursos de formacion empresarial.",
+        "gaps": [
+          "comparar tipos de academia en vez de listar solo cursos concretos",
+          "diferenciar universidad, escuela de negocio, certificadora, hub publico, plataforma gratuita, in company y mentoria",
+          "dar criterios de calidad, acreditacion, practica y actualizacion normativa",
+          "evitar promesas de empleabilidad o impacto sin evidencia"
+        ]
+      },
+      "sources": [
+        "https://www.miteco.gob.es/es/ceneam/formacion-ambiental/cursos-y-postgrados.html",
+        "https://www.pactomundial.org/noticia/open-academy-spain-formacion-sostenibilidad-gratuita/",
+        "https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/",
+        "https://finance.ec.europa.eu/sustainable-finance/disclosures/sustainability-related-disclosure-financial-services-sector_en",
+        "https://www.uoc.edu/es/estudios/info/economia-circular-desarrollo-sostenible",
+        "https://www.cef.com/curso/curso-experto-sostenibilidad-esg-economia-circular",
+        "https://www.ismedioambiente.com/programas-formativos/economia-circular/",
+        "https://www.eada.edu/es/profesorado-e-investigacion/sustainability-hub"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-academias-sostenibilidad-espana.jpg",
+        "alt": "Profesionales comparando programas de sostenibilidad, economia circular y ESG en una mesa de formacion",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
+        "youtubePresent": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      }
+    },
+    {
+      "keyword": "curso de economia circular online",
+      "slug": "curso-de-economia-circular-online",
+      "title": "Curso de economia circular online: como elegir bien sin perder tiempo",
+      "status": "pushed_unverified",
+      "commit": "REBASING_PENDING",
+      "verifiedAt": null,
+      "selectedFromWorkbookPriority": "Media",
+      "publicationDate": "2026-08-15",
+      "finalUrl": "https://aloklub.academy/blog/curso-de-economia-circular-online/",
+      "pushedUnverifiedReason": "Article prepared locally with source and dist output; awaiting Git push and Cloudflare custom-domain verification.",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU con apoyo informacional: comparar cursos online de economia circular antes de matricularse o solicitar informacion.",
+        "pageTypes": [
+          "landings de cursos online",
+          "masters online universitarios o de escuela de negocio",
+          "programas de institutos ambientales",
+          "catalogos de certificadoras",
+          "cursos de colegios profesionales"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao muestra ISM, EOI, UNED, COIIM, AENOR, IL3-UB, TUV SUD, UOC y plataformas similares con modalidad, duracion, temario, precio o certificado. Predomina la ficha de programa propio sobre la comparativa editorial.",
+        "gaps": [
+          "decidir entre curso corto, curso profesional, master, certificadora, empresa y mentoria",
+          "separar modalidad asincrona, directo y acompanamiento",
+          "evitar canibalizar rankings generales de mejores cursos",
+          "explicar senales de superficialidad y de aplicacion real"
+        ]
+      },
+      "sources": [
+        "https://www.ismedioambiente.com/programas-formativos/economia-circular/",
+        "https://www.eoi.es/es/cursos/89314/master-en-economia-circular-online",
+        "https://tienda.aenor.com/web/guest/formacion/areas/economia-circular",
+        "https://www.uoc.edu/es/estudios/info/economia-circular-desarrollo-sostenible",
+        "https://www.ellenmacarthurfoundation.org/es/temas/presentacion-economia-circular/vision-general",
+        "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html",
+        "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+        "https://www.iso.org/standard/80648.html"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/curso-economia-circular-online.jpg",
+        "alt": "Profesional estudiando economia circular online con materiales reciclados, laptop y apuntes de ciclo de vida",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "localStructuredChecks": true,
+        "localDesktopRenderOk": true,
+        "localMobileRenderOk": true,
+        "buildCommand": "npm run build hung while importing/running Eleventy; static dist output was generated by copying src HTML/assets according to the repository Eleventy passthrough configuration.",
+        "urlHttpStatus": null,
+        "h1Matches": null,
+        "canonicalMatches": null,
+        "featuredImageLoads": null,
+        "presentInBlog": null,
+        "presentInSitemap": null,
+        "desktopRenderOk": null,
+        "mobileRenderOk": null
       }
     },
     {
