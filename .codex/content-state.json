@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-08-17T01:49:00+02:00",
+  "lastRun": "2026-08-30T09:16:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -660,9 +660,9 @@
       "keyword": "EXTRA_CAMPAIGN: Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
       "slug": "calzado-barefoot-sostenibilidad",
       "title": "Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
-      "status": "published_extra_campaign",
-      "commit": "871d258",
-      "verifiedAt": "2026-07-26T11:12:04+02:00",
+      "status": "ready_for_publish_extra_campaign",
+      "commit": "37104460f5f7c703a61c98ca8bd691092b4442b1",
+      "verifiedAt": "2026-08-30T09:16:00+02:00",
       "campaignType": "extra_one_off",
       "normalEditorialQueueConsumed": false,
       "publicationDate": "2026-07-26",
@@ -675,25 +675,27 @@
           "articulos periodisticos sobre calzado respetuoso",
           "guias de tiendas sobre marcas saludables o sostenibles"
         ],
-        "coverage": "La SERP espanola explica bastante bien puntera ancha, drop cero, suela flexible y marcas, pero cubre peor la relacion entre compra responsable, materiales, cuidado, reparacion, vida util y circularidad.",
+        "coverage": "La SERP espanola sigue mezclando tiendas barefoot, rankings de marcas y fichas de producto; el articulo se diferencia al centrar materiales, durabilidad, compra responsable, certificacion tecnica y circularidad sin convertirse en review de una marca.",
         "gaps": [
           "evitar presentar barefoot como automaticamente sostenible",
-          "comparar materiales por durabilidad, cuidado y fin de vida",
+          "separar claims biomecanicos de evidencias ambientales",
+          "comparar materiales por durabilidad, cuidado, reparacion y fin de vida",
           "integrar consumo responsable y coste por uso",
-          "incluir marcas reales sin convertir el articulo en una review de Lejan"
+          "incluir marcas reales sin convertir el articulo en una review de Lejan",
+          "integrar novedades 2026 sobre certificacion barefoot y politica textil europea"
         ]
       },
       "sources": [
         "https://lejanbrand.com/",
         "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
         "https://www.eea.europa.eu/en/topics/in-depth/textiles",
-        "https://www.eea.europa.eu/en/analysis/publications/textiles-and-the-environment-the-role-of-design-in-europes-circular-economy-1",
-        "https://www.ellenmacarthurfoundation.org/fashion-business-models/overview"
+        "https://www.inescop.es/es/servicios/certificaciones/barefoot"
       ],
       "internalLinks": [
         "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
-        "https://aloklub.academy/blog/plan-de-aprendizaje-circular/",
-        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/blog/mejores-cursos-de-ecodiseno/",
+        "https://aloklub.academy/blog/evaluar-durabilidad-calzado-barefoot/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
         "https://aloklub.academy/servicios/mentoria/"
       ],
       "image": {
@@ -707,14 +709,26 @@
         "occurrences": 1
       },
       "verification": {
-        "urlHttpStatus": 200,
-        "h1Matches": true,
-        "canonicalMatches": true,
-        "featuredImageLoads": true,
-        "presentInBlog": true,
-        "presentInSitemap": true,
+        "localStructuredChecks": true,
+        "wordCount": 2041,
+        "localUrlHttpStatus": 200,
+        "localH1Matches": true,
+        "localCanonicalMatches": true,
+        "localFeaturedImageLoads": true,
+        "localPresentInBlog": true,
+        "localPresentInSitemap": true,
+        "articleSchemaPresent": true,
+        "breadcrumbSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "visibleFaqs": 4,
+        "anchorExactOccurrences": 1,
+        "editorialSeoReview": "passed",
+        "buildStatus": "eleventy_hung_after_60s_alarm; static dist smoke test passed",
         "desktopRenderOk": true,
-        "mobileRenderOk": true
+        "mobileRenderOk": true,
+        "pushStatus": "pending",
+        "remoteMainAtAttempt": "bf2462318dffaa6fe62bf9cb67cb0d9fecb6b9ef",
+        "liveVerificationStatus": "pending"
       }
     },
     {
@@ -867,7 +881,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-30",
   "articles": [
     {
       "keyword": "cómo evaluar la durabilidad real del calzado barefoot antes de comprar",
