@@ -3,7 +3,7 @@
   "company": "Aloklub Academy",
   "market": "Bilbao, Bizkaia, Spain",
   "language": "Español",
-  "lastRun": "2026-08-10T01:52:37+02:00",
+  "lastRun": "2026-08-30T09:16:00+02:00",
   "items": [
     {
       "keyword": "mejores cursos de economía circular",
@@ -463,13 +463,12 @@
       "keyword": "formación en economía circular para empresas",
       "slug": "formacion-en-economia-circular-para-empresas",
       "title": "Formacion en economia circular para empresas: como elegir un programa util",
-      "status": "pushed_unverified",
+      "status": "published",
       "commit": "505cb04",
-      "verifiedAt": "2026-08-10T01:52:37+02:00",
+      "verifiedAt": "2026-08-15T01:55:25+02:00",
       "selectedFromWorkbookPriority": "Alta",
       "publicationDate": "2026-08-10",
       "finalUrl": "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
-      "pushedUnverifiedReason": "Live URL, H1, canonical, image, blog index, sitemap, Article schema, FAQ schema, TOC and YouTube were verified; mobile/desktop visual screenshot verification was inconclusive because local Chrome headless hung and did not write screenshots, although it requested HTML, CSS, logos, JS and featured image successfully.",
       "serpObservations": {
         "intent": "Comercial / transaccional BOFU: empresas y pymes comparan formacion circular antes de pedir informacion, elegir proveedor o activar un programa interno.",
         "pageTypes": [
@@ -520,9 +519,141 @@
         "faqSchemaPresent": true,
         "tocPresent": true,
         "youtubePresent": true,
-        "desktopRenderOk": false,
-        "mobileRenderOk": false,
-        "renderVerificationNote": "Chrome headless requested article HTML, CSS, logos, JS and featured image for desktop/mobile attempts but hung before writing screenshots."
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "renderVerificationNote": "Reconciled in this run after live HTTP and structured checks; current run local desktop/mobile screenshot workflow is available again."
+      }
+    },
+    {
+      "keyword": "mejores academias de sostenibilidad en España",
+      "slug": "mejores-academias-de-sostenibilidad-en-espana",
+      "title": "Mejores academias de sostenibilidad en Espana: 10 opciones para elegir con criterio",
+      "status": "published",
+      "commit": "766921fef2cdc447ec82dd497893755627682a1b",
+      "verifiedAt": "2026-08-12T10:08:04+02:00",
+      "selectedFromWorkbookPriority": "Alta",
+      "publicationDate": "2026-08-12",
+      "finalUrl": "https://aloklub.academy/blog/mejores-academias-de-sostenibilidad-en-espana/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: comparar academias, universidades, escuelas, hubs y plataformas antes de pedir informacion o matricularse.",
+        "pageTypes": [
+          "paginas de cursos y programas universitarios",
+          "escuelas de negocio con programas de sostenibilidad",
+          "institutos ambientales especializados",
+          "certificadoras y academias tecnicas",
+          "directorios institucionales y plataformas gratuitas"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao no esta dominada por rankings editoriales exactos; mezcla landings de programas como UOC, CEF, ISM, EADA, ESIC y UPF-BSM con listados institucionales como CENEAM/MITECO y recursos de formacion empresarial.",
+        "gaps": [
+          "comparar tipos de academia en vez de listar solo cursos concretos",
+          "diferenciar universidad, escuela de negocio, certificadora, hub publico, plataforma gratuita, in company y mentoria",
+          "dar criterios de calidad, acreditacion, practica y actualizacion normativa",
+          "evitar promesas de empleabilidad o impacto sin evidencia"
+        ]
+      },
+      "sources": [
+        "https://www.miteco.gob.es/es/ceneam/formacion-ambiental/cursos-y-postgrados.html",
+        "https://www.pactomundial.org/noticia/open-academy-spain-formacion-sostenibilidad-gratuita/",
+        "https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/",
+        "https://finance.ec.europa.eu/sustainable-finance/disclosures/sustainability-related-disclosure-financial-services-sector_en",
+        "https://www.uoc.edu/es/estudios/info/economia-circular-desarrollo-sostenible",
+        "https://www.cef.com/curso/curso-experto-sostenibilidad-esg-economia-circular",
+        "https://www.ismedioambiente.com/programas-formativos/economia-circular/",
+        "https://www.eada.edu/es/profesorado-e-investigacion/sustainability-hub"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/mejores-academias-sostenibilidad-espana.jpg",
+        "alt": "Profesionales comparando programas de sostenibilidad, economia circular y ESG en una mesa de formacion",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
+        "youtubePresent": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true
+      }
+    },
+    {
+      "keyword": "curso de economia circular online",
+      "slug": "curso-de-economia-circular-online",
+      "title": "Curso de economia circular online: como elegir bien sin perder tiempo",
+      "status": "published",
+      "commit": "766921fef2cdc447ec82dd497893755627682a1b",
+      "verifiedAt": "2026-08-15T02:04:50+02:00",
+      "selectedFromWorkbookPriority": "Media",
+      "publicationDate": "2026-08-15",
+      "finalUrl": "https://aloklub.academy/blog/curso-de-economia-circular-online/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU con apoyo informacional: comparar cursos online de economia circular antes de matricularse o solicitar informacion.",
+        "pageTypes": [
+          "landings de cursos online",
+          "masters online universitarios o de escuela de negocio",
+          "programas de institutos ambientales",
+          "catalogos de certificadoras",
+          "cursos de colegios profesionales"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao muestra ISM, EOI, UNED, COIIM, AENOR, IL3-UB, TUV SUD, UOC y plataformas similares con modalidad, duracion, temario, precio o certificado. Predomina la ficha de programa propio sobre la comparativa editorial.",
+        "gaps": [
+          "decidir entre curso corto, curso profesional, master, certificadora, empresa y mentoria",
+          "separar modalidad asincrona, directo y acompanamiento",
+          "evitar canibalizar rankings generales de mejores cursos",
+          "explicar senales de superficialidad y de aplicacion real"
+        ]
+      },
+      "sources": [
+        "https://www.ismedioambiente.com/programas-formativos/economia-circular/",
+        "https://www.eoi.es/es/cursos/89314/master-en-economia-circular-online",
+        "https://tienda.aenor.com/web/guest/formacion/areas/economia-circular",
+        "https://www.uoc.edu/es/estudios/info/economia-circular-desarrollo-sostenible",
+        "https://www.ellenmacarthurfoundation.org/es/temas/presentacion-economia-circular/vision-general",
+        "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular/estrategia.html",
+        "https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en",
+        "https://www.iso.org/standard/80648.html"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-cursos-de-economia-circular/",
+        "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/curso-economia-circular-online.jpg",
+        "alt": "Profesional estudiando economia circular online con materiales reciclados, laptop y apuntes de ciclo de vida",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "localStructuredChecks": true,
+        "localDesktopRenderOk": true,
+        "localMobileRenderOk": true,
+        "buildCommand": "npm run build hung while importing/running Eleventy; static dist output was generated by copying src HTML/assets according to the repository Eleventy passthrough configuration.",
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
+        "youtubePresent": true,
+        "liveVerifiedAt": "2026-08-15T02:04:50+02:00",
+        "liveVerificationAttempt": 2
       }
     },
     {
@@ -530,8 +661,8 @@
       "slug": "calzado-barefoot-sostenibilidad",
       "title": "Calzado barefoot y sostenibilidad: materiales, durabilidad y consumo responsable",
       "status": "published_extra_campaign",
-      "commit": "871d258",
-      "verifiedAt": "2026-07-26T11:12:04+02:00",
+      "commit": "b615b672fbb55cc79bc3a539eaf5976e933833bf",
+      "verifiedAt": "2026-08-30T09:35:30+02:00",
       "campaignType": "extra_one_off",
       "normalEditorialQueueConsumed": false,
       "publicationDate": "2026-07-26",
@@ -544,25 +675,27 @@
           "articulos periodisticos sobre calzado respetuoso",
           "guias de tiendas sobre marcas saludables o sostenibles"
         ],
-        "coverage": "La SERP espanola explica bastante bien puntera ancha, drop cero, suela flexible y marcas, pero cubre peor la relacion entre compra responsable, materiales, cuidado, reparacion, vida util y circularidad.",
+        "coverage": "La SERP espanola sigue mezclando tiendas barefoot, rankings de marcas y fichas de producto; el articulo se diferencia al centrar materiales, durabilidad, compra responsable, certificacion tecnica y circularidad sin convertirse en review de una marca.",
         "gaps": [
           "evitar presentar barefoot como automaticamente sostenible",
-          "comparar materiales por durabilidad, cuidado y fin de vida",
+          "separar claims biomecanicos de evidencias ambientales",
+          "comparar materiales por durabilidad, cuidado, reparacion y fin de vida",
           "integrar consumo responsable y coste por uso",
-          "incluir marcas reales sin convertir el articulo en una review de Lejan"
+          "incluir marcas reales sin convertir el articulo en una review de Lejan",
+          "integrar novedades 2026 sobre certificacion barefoot y politica textil europea"
         ]
       },
       "sources": [
         "https://lejanbrand.com/",
         "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
         "https://www.eea.europa.eu/en/topics/in-depth/textiles",
-        "https://www.eea.europa.eu/en/analysis/publications/textiles-and-the-environment-the-role-of-design-in-europes-circular-economy-1",
-        "https://www.ellenmacarthurfoundation.org/fashion-business-models/overview"
+        "https://www.inescop.es/es/servicios/certificaciones/barefoot"
       ],
       "internalLinks": [
         "https://aloklub.academy/blog/como-elegir-un-curso-de-economia-circular/",
-        "https://aloklub.academy/blog/plan-de-aprendizaje-circular/",
-        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/blog/mejores-cursos-de-ecodiseno/",
+        "https://aloklub.academy/blog/evaluar-durabilidad-calzado-barefoot/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
         "https://aloklub.academy/servicios/mentoria/"
       ],
       "image": {
@@ -576,18 +709,190 @@
         "occurrences": 1
       },
       "verification": {
+        "localStructuredChecks": true,
+        "wordCount": 2041,
+        "localUrlHttpStatus": 200,
+        "localH1Matches": true,
+        "localCanonicalMatches": true,
+        "localFeaturedImageLoads": true,
+        "localPresentInBlog": true,
+        "localPresentInSitemap": true,
+        "articleSchemaPresent": true,
+        "breadcrumbSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "visibleFaqs": 4,
+        "anchorExactOccurrences": 1,
+        "editorialSeoReview": "passed",
+        "buildStatus": "eleventy_hung_after_60s_alarm; static dist smoke test passed",
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "pushStatus": "pushed_to_main",
+        "remoteMainAtAttempt": "bf2462318dffaa6fe62bf9cb67cb0d9fecb6b9ef",
+        "pushedHead": "6117278889e847832b0fa84c93948a2490a6237f",
+        "liveVerificationStatus": "passed",
+        "liveUrlHttpStatus": 200,
+        "liveH1Matches": true,
+        "liveCanonicalMatches": true,
+        "liveFeaturedImageLoads": true,
+        "livePresentInBlog": true,
+        "livePresentInSitemap": true,
+        "liveSitemapLastmod": "2026-08-30",
+        "liveAnchorExactOccurrences": 1,
+        "liveVerifiedAt": "2026-08-30T09:35:30+02:00",
+        "liveVerificationAttempt": 1
+      }
+    },
+    {
+      "keyword": "curso de sostenibilidad empresarial online",
+      "slug": "curso-de-sostenibilidad-empresarial-online",
+      "title": "Curso de sostenibilidad empresarial online: como elegir uno util",
+      "status": "published",
+      "commit": "2de1751a151dcaeb0baa1af5e31d8cec16186522",
+      "verifiedAt": "2026-08-16T10:18:00+02:00",
+      "selectedFromWorkbookPriority": "Media",
+      "publicationDate": "2026-08-16",
+      "finalUrl": "https://aloklub.academy/blog/curso-de-sostenibilidad-empresarial-online/",
+      "serpObservations": {
+        "intent": "Comercial / transaccional BOFU: empresas, responsables y profesionales comparan formacion online de sostenibilidad empresarial antes de pedir informacion, justificar presupuesto o matricularse.",
+        "pageTypes": [
+          "microcredenciales universitarias",
+          "cursos de sostenibilidad corporativa",
+          "programas executive ESG",
+          "certificadoras y cursos tecnicos",
+          "masters online",
+          "plataformas gratuitas de aprendizaje empresarial"
+        ],
+        "coverage": "La SERP de Google ES / Bilbao mezcla FUE-UJI, UPO, TUV SUD, UOC, Pacto Mundial de la ONU Espana, MIT Professional Education, APD, EALDE, UNIR, EOI, Universidad Europea y SGS. Predominan landings transaccionales con modalidad, duracion, temario, certificado, precio o formulario.",
+        "gaps": [
+          "decidir por objetivo empresarial y entregable, no solo por horas o marca",
+          "separar sostenibilidad empresarial, ESG, reporting, ODS y circularidad",
+          "explicar cuando conviene curso corto, microcredencial, executive, certificadora, plataforma gratuita, in company o mentoria",
+          "conectar CSRD, ESRS, GRI y formacion interna sin prometer empleo ni resultados"
+        ]
+      },
+      "sources": [
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+        "https://www.efrag.org/en/sustainability-reporting",
+        "https://www.globalreporting.org/standards/",
+        "https://www.pactomundial.org/formacion-sostenibilidad-empresarial-abierto/"
+      ],
+      "serpSampleSources": [
+        "https://www.fue.uji.es/formacion/EX250289",
+        "https://www.upo.es/formacionpermanente/microcredenciales/desarrollo-sostenible/sostenibilidad-corporativa-como-integrar-la-sostenibilidad-en-la-empresa/",
+        "https://www.tuvsud.com/es-es/store/academy-es/sostenibilidad/sostenibilidad-ambiental",
+        "https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-comunicacion-sostenibilidad-esg",
+        "https://www.unir.net/empresa/curso-sostenibilidad-esg/"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/mejores-cursos-de-sostenibilidad-para-empresas/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/curso-sostenibilidad-empresarial-online.jpg",
+        "alt": "Equipo revisando un plan de aprendizaje online en sostenibilidad empresarial con materiales y graficas sobre una mesa",
+        "generatedWith": "imagegen"
+      },
+      "verification": {
+        "localStructuredChecks": true,
+        "buildCommand": "npm run build started Eleventy and hung until killed by a 60 second alarm; no article-specific error was emitted.",
+        "localHttpChecks": true,
+        "localDesktopRenderOk": true,
+        "localMobileRenderOk": true,
         "urlHttpStatus": 200,
         "h1Matches": true,
         "canonicalMatches": true,
         "featuredImageLoads": true,
         "presentInBlog": true,
         "presentInSitemap": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
         "desktopRenderOk": true,
-        "mobileRenderOk": true
+        "mobileRenderOk": true,
+        "liveVerifiedAt": "2026-08-16T10:18:00+02:00",
+        "liveVerificationAttempt": 2,
+        "youtubePresent": false,
+        "youtubeNote": "No reliable relevant YouTube embed ID was found during source review, so no video was embedded."
+      }
+    },
+    {
+      "keyword": "programas de innovación sostenible",
+      "slug": "programas-de-innovacion-sostenible",
+      "title": "Programas de innovacion sostenible: como elegir uno que llegue a piloto",
+      "status": "published",
+      "selectedFromWorkbookPriority": "Media",
+      "publicationDate": "2026-08-17",
+      "finalUrl": "https://aloklub.academy/blog/programas-de-innovacion-sostenible/",
+      "serpObservations": {
+        "intent": "Informacional con salida comercial BOFU: comparar programas, cursos, masters, ayudas, aceleradoras y acompanamiento antes de pedir informacion o invertir presupuesto.",
+        "pageTypes": [
+          "masters y diplomas",
+          "cursos online profesionales",
+          "programas publicos para pymes",
+          "incubadoras o aceleradoras",
+          "innovacion abierta",
+          "paginas institucionales ODS/innovacion"
+        ],
+        "coverage": "La SERP mezcla landings transaccionales de formacion, paginas de ayudas y programas institucionales. Hay fuerte cobertura de programas propios, pero poca decision comparativa entre formacion, aceleracion, innovacion abierta e in company.",
+        "gaps": [
+          "diferenciar innovacion sostenible de sostenibilidad empresarial generica",
+          "explicar cuando conviene master, curso, aceleradora, ayuda publica o mentoria",
+          "centrar la decision en reto, prototipo y piloto",
+          "advertir sobre claims de impacto sin metodologia ni evidencias"
+        ]
+      },
+      "sources": [
+        "https://www.eada.edu/es/programas/sostenibilidad/master-online-en-innovacion-y-sostenibilidad-empresarial",
+        "https://www.seas.es/produccion/curso-innovacion-empresa",
+        "https://www.camara.es/innovacion-y-competitividad/pyme-sostenible",
+        "https://www.deusto.es/es/inicio/estudia/estudios/curso-seminario/deusto-sip",
+        "https://www.iso.org/standard/79278.html",
+        "https://www.oecd.org/en/topics/sub-issues/economic-and-environmental-outcomes-of-innovation.html",
+        "https://commission.europa.eu/topics/business-and-industry_en"
+      ],
+      "internalLinks": [
+        "https://aloklub.academy/blog/mejores-programas-de-sostenibilidad-online/",
+        "https://aloklub.academy/blog/curso-de-sostenibilidad-empresarial-online/",
+        "https://aloklub.academy/blog/formacion-en-economia-circular-para-empresas/",
+        "https://aloklub.academy/servicios/educacion/",
+        "https://aloklub.academy/servicios/mentoria/"
+      ],
+      "image": {
+        "path": "src/assets/programas-innovacion-sostenible.jpg",
+        "alt": "Mesa de trabajo con materiales, portatil, notas y mapa circular para planificar un programa de innovacion sostenible",
+        "generatedWith": "imagegen"
+      },
+      "commit": "97e642d",
+      "verifiedAt": "2026-08-17T01:49:00+02:00",
+      "verification": {
+        "localStructuredChecks": true,
+        "wordCount": 2364,
+        "buildCommand": "npm run build started Eleventy and hung until stopped after 60 seconds; no article-specific error was emitted.",
+        "localHttpChecks": true,
+        "localDesktopRenderOk": true,
+        "localMobileRenderOk": true,
+        "urlHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "featuredImageLoads": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "articleSchemaPresent": true,
+        "faqSchemaPresent": true,
+        "tocPresent": true,
+        "desktopRenderOk": true,
+        "mobileRenderOk": true,
+        "liveVerifiedAt": "2026-08-17T01:49:00+02:00",
+        "liveVerificationAttempt": 2,
+        "youtubePresent": false,
+        "youtubeNote": "No YouTube embed was added because no clearly relevant authoritative video improved the article beyond the cited sources."
       }
     }
   ],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-30",
   "articles": [
     {
       "keyword": "cómo evaluar la durabilidad real del calzado barefoot antes de comprar",
