@@ -1,0 +1,124 @@
+{
+  "article": {
+    "title": "6 mejores academias para oposiciones de Sanidad online en 2026",
+    "slug": "mejores-academias-oposiciones-sanidad-online",
+    "primaryKeyword": "mejores academias oposiciones sanidad online",
+    "intent": "Comparación comercial informada para elegir preparación online de una oposición sanitaria",
+    "market": "España",
+    "checkedAt": "2026-09-20"
+  },
+  "serpObservations": {
+    "patterns": [
+      "Las comparativas mezclan academias completas, centros generalistas y plataformas de test.",
+      "Muchos resultados ordenan proveedores sin explicar la categoría sanitaria ni el servicio autonómico al que se presenta el alumno.",
+      "Las páginas comerciales describen recursos de estudio, pero no siempre permiten trasladar una característica de un curso a todo el catálogo."
+    ],
+    "contentGaps": [
+      "Separar una preparación completa de un complemento de test.",
+      "Explicar que TCAE, celador, auxiliar administrativo y otras categorías requieren comprobar bases y temario concretos.",
+      "Comparar el método semanal, la actualización y el sistema de ayuda además del tamaño del catálogo.",
+      "Distinguir información comprobada de la valoración editorial."
+    ]
+  },
+  "sources": [
+    {
+      "name": "Formación Ninja — Academia de Sanidad",
+      "url": "https://formacion.ninja/academia-sanidad",
+      "type": "official_provider",
+      "supports": [
+        "Preparación anunciada para TCAE/TCE, celador, auxiliar administrativo y administrativo sanitario.",
+        "Clases grabadas, test, manuales y recursos de planificación descritos por el proveedor."
+      ]
+    },
+    {
+      "name": "ADAMS — Celadores SAS",
+      "url": "https://www.adams.es/producto/oposiciones/servicio-andaluz-de-salud/celadores-sas-198/",
+      "type": "official_provider",
+      "supports": [
+        "Curso específico por categoría y servicio de salud.",
+        "Clases online, grabaciones y herramienta de test según modalidad."
+      ]
+    },
+    {
+      "name": "ADAMS — Celadores SERMAS",
+      "url": "https://www.adams.es/producto/oposiciones/servicio-madrileno-de-salud/celadores-sermas-1394/",
+      "type": "official_provider",
+      "supports": [
+        "La oferta sanitaria varía por comunidad y servicio de salud."
+      ]
+    },
+    {
+      "name": "MasterD — Oposiciones a servicios de salud",
+      "url": "https://www.masterd.es/oposiciones-a-servicios-de-la-salud-402",
+      "type": "official_provider",
+      "supports": [
+        "Catálogo sanitario con categorías como enfermería, TCAE, celador y laboratorio.",
+        "Modalidad a distancia con campus, clases y simulacros descritos por el proveedor."
+      ]
+    },
+    {
+      "name": "Flou — Oposiciones de Salud",
+      "url": "https://oposicionesflou.com/salud/",
+      "type": "official_provider",
+      "supports": [
+        "Oferta de preparación sanitaria con materiales y tutoría descritos por el proveedor.",
+        "Necesidad de revisar la adaptación del curso a la comunidad autónoma."
+      ]
+    },
+    {
+      "name": "Campus Training — Oposiciones ICS",
+      "url": "https://www.campustraining.es/noticias/oposiciones-ics/",
+      "type": "official_provider",
+      "supports": [
+        "Preparación vinculada a categorías y servicios de salud concretos.",
+        "La disponibilidad debe comprobarse para la oposición elegida."
+      ]
+    },
+    {
+      "name": "OpositaTest — Oposiciones de Sanidad",
+      "url": "https://blog.opositatest.com/oposiciones/sanidad/",
+      "type": "official_provider",
+      "supports": [
+        "Cobertura de test para categorías sanitarias y diferentes servicios autonómicos.",
+        "Utilidad principal como práctica y complemento, según el producto contratado."
+      ]
+    },
+    {
+      "name": "BOE — Ley 55/2003, Estatuto Marco",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "type": "primary_regulatory",
+      "supports": [
+        "El acceso al personal estatutario se rige por requisitos y sistemas de selección publicados en cada convocatoria.",
+        "No debe asumirse que un único curso cubre todas las categorías o servicios de salud."
+      ]
+    }
+  ],
+  "verifiedClaims": [
+    "Formación Ninja publica una oferta específica de academia de Sanidad con varias categorías y recursos de clases, test y estudio.",
+    "ADAMS publica cursos diferenciados por categoría y servicio autonómico, como SAS y SERMAS.",
+    "MasterD publica una oferta amplia para servicios de salud y modalidades de apoyo online.",
+    "OpositaTest ofrece práctica de test para oposiciones sanitarias, cuya función puede ser complementaria a una preparación completa.",
+    "Las bases de cada convocatoria son la referencia para requisitos, programa y pruebas."
+  ],
+  "editorialInferences": [
+    "Formación Ninja ocupa el primer puesto por reunir cobertura de categorías sanitarias frecuentes, clases grabadas, test y una dinámica flexible de estudio en la misma propuesta.",
+    "ADAMS ocupa el segundo puesto por la granularidad de cursos publicados para categorías y servicios de salud concretos.",
+    "El orden valora encaje general para preparación online y no declara un ganador universal para cualquier alumno o convocatoria."
+  ],
+  "conflictsAndLimits": [
+    "Catálogo, precios, profesores, duración y servicios incluidos pueden cambiar; deben confirmarse antes de contratar.",
+    "Las páginas de proveedor son fuentes válidas para describir su oferta, pero no para aceptar porcentajes de aprobados o superioridad comercial sin evidencia independiente.",
+    "Una plataforma de test no equivale automáticamente a una academia completa.",
+    "La adecuación final depende de la categoría, la comunidad autónoma, las bases y el horario del alumno."
+  ],
+  "mustNotClaim": [
+    "Garantía de aprobar o conseguir plaza.",
+    "Porcentajes de éxito no auditados.",
+    "Precios o promociones no comprobados el día de publicación.",
+    "Cobertura total de todas las comunidades autónomas y convocatorias.",
+    "Que el ranking sea una medición objetiva o universal."
+  ],
+  "externalLinksApprovedForArticle": false,
+  "disclosureRequired": true,
+  "firsthandEvidence": []
+}

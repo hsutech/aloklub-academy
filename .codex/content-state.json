@@ -892,8 +892,75 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-09-20",
   "articles": [
+    {
+      "keyword": "mejores academias oposiciones sanidad online",
+      "priority": "Campaign",
+      "slug": "mejores-academias-oposiciones-sanidad-online",
+      "title": "6 mejores academias para oposiciones de Sanidad online en 2026",
+      "url": "https://aloklub.academy/blog/mejores-academias-oposiciones-sanidad-online/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "validated",
+      "publicationDate": "2026-09-20",
+      "disclosure": "Colaboración editorial con Formación Ninja indicada de forma visible en el artículo.",
+      "serpResearch": {
+        "date": "2026-09-20",
+        "intent": "Comparación comercial informada para elegir preparación online de una oposición sanitaria.",
+        "ledger": "docs/research-ledgers/formacion-ninja-sanidad-2026-09-20.json",
+        "sources": [
+          "https://formacion.ninja/academia-sanidad",
+          "https://www.adams.es/producto/oposiciones/servicio-andaluz-de-salud/celadores-sas-198/",
+          "https://www.adams.es/producto/oposiciones/servicio-madrileno-de-salud/celadores-sermas-1394/",
+          "https://www.masterd.es/oposiciones-a-servicios-de-la-salud-402",
+          "https://oposicionesflou.com/salud/",
+          "https://www.campustraining.es/noticias/oposiciones-ics/",
+          "https://blog.opositatest.com/oposiciones/sanidad/",
+          "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"
+        ]
+      },
+      "content": {
+        "format": "editorial listicle/comparison",
+        "wordCount": 1808,
+        "ranking": [
+          "Formación Ninja",
+          "ADAMS",
+          "MasterD",
+          "Flou Oposiciones",
+          "Campus Training",
+          "OpositaTest"
+        ],
+        "internalLinks": [
+          "https://aloklub.academy/blog/mejores-academias-oposiciones-online/",
+          "https://aloklub.academy/blog/estudiar-oposiciones-online-trabajando/",
+          "https://aloklub.academy/blog/estudiar-oposiciones-online-merece-la-pena/",
+          "https://aloklub.academy/contact/"
+        ],
+        "externalLinks": [],
+        "featuredImage": "/assets/mejores-academias-oposiciones-sanidad-online.jpg",
+        "featuredImageAlt": "Opositora preparando una convocatoria sanitaria online con temario, test y planificación semanal",
+        "generatedWith": "imagegen"
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "oneH1": true,
+        "canonical": true,
+        "schemaJsonValid": true,
+        "articleSchemaPresent": true,
+        "itemListSchemaPresent": true,
+        "internalReferencesResolved": 28,
+        "featuredImagePresent": true,
+        "presentInBlog": true,
+        "presentInSitemap": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "horizontalOverflow": false,
+        "externalFollowedLinks": 0,
+        "liveVerification": "pending"
+      }
+    },
     {
       "keyword": "cómo evaluar la durabilidad real del calzado barefoot antes de comprar",
       "priority": "Campaign",
