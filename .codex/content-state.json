@@ -902,8 +902,9 @@
       "url": "https://aloklub.academy/blog/mejores-academias-oposiciones-sanidad-online/",
       "language": "es",
       "market": "Google ES",
-      "status": "validated",
+      "status": "live_verified",
       "publicationDate": "2026-09-20",
+      "publishedCommit": "2e9ee7472b3e3048f2301397f9f1fc303d0f7262",
       "disclosure": "Colaboración editorial con Formación Ninja indicada de forma visible en el artículo.",
       "serpResearch": {
         "date": "2026-09-20",
@@ -958,7 +959,13 @@
         "mobileRender": "passed",
         "horizontalOverflow": false,
         "externalFollowedLinks": 0,
-        "liveVerification": "pending"
+        "liveVerification": "passed",
+        "liveVerifiedAt": "2026-09-20T18:52:00+02:00",
+        "productionHttpStatus": 200,
+        "pagesDevHttpStatus": 200,
+        "liveImageHttpStatus": 200,
+        "liveBlogIndexContainsArticle": true,
+        "liveSitemapContainsArticle": true
       }
     },
     {
